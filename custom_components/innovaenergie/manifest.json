@@ -1,11 +1,13 @@
 {
   "domain": "innovaenergie",
   "name": "Innova Energie",
+  "after_dependencies": ["http"],
   "codeowners": ["@TonyWael"],
   "config_flow": true,
   "documentation": "https://github.com/TonyWael/ha-innovaenergie",
   "integration_type": "service",
   "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/TonyWael/ha-innovaenergie/issues",
   "requirements": [],
   "version": "1.0.0"
 }
