@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Innova Energie",
+        "description": "Meld u aan met uw mijn.innovaenergie.nl gebruikersnaam en wachtwoord.",
+        "data": {
+          "username": "Gebruikersnaam",
+          "password": "Wachtwoord"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Kan geen verbinding maken met Innova Energie. Controleer uw internetverbinding.",
+      "invalid_auth": "Ongeldige gebruikersnaam of wachtwoord.",
+      "unknown": "Er heeft zich een onverwachte fout voorgedaan."
+    },
+    "abort": {
+      "already_configured": "Dit account is al geconfigureerd."
+    }
+  }
+}
